@@ -1,0 +1,7 @@
+.cache/
+node_modules/
+ztour-images-original/
+
+*.env
+credentials.txt
+public/img/
