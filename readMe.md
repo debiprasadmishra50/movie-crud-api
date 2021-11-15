@@ -12,10 +12,10 @@ Build using Node JS, Express, MongoDB
 
 GET all movies: `/api/v1/movies`
 
-GET A movie: `/api/v1/movie/`**id**
+GET A movie: `/api/v1/movie/**id**`
 
 Create a movie: `/api/v1/movies`
 
-Update a movie: `/api/v1/movie/`**id**
+Update a movie: `/api/v1/movie/**id**`
 
-Delete a movie: `/api/v1/movie/`**id**
+Delete a movie: `/api/v1/movie/**id**`
