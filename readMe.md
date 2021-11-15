@@ -14,7 +14,7 @@ GET all movies: `/api/v1/movies`
 
 GET A movie: `/api/v1/movie/`**id**
 
-Create a movie: `/api/v1/movie`
+Create a movie: `/api/v1/movies`
 
 Update a movie: `/api/v1/movie/`**id**
 
